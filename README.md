@@ -1,2 +1,3 @@
 # hello-world
 just another repo...
+The story starts here in a repository... may it live on and prosper.
